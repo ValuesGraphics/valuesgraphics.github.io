@@ -1,0 +1,5 @@
+site_name: Values Graphics
+theme: material
+nav:
+  - HOME: index.md
+  - CONTACT: contact.md
